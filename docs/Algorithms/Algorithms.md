@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Algorithms
-nav_order: 3
+# nav_order: 3
 has_children: true
-permalink: /docs/Algorithms
+permalink: /docs/algorithms
 ---
+
+# Algorithms
