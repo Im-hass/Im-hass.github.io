@@ -2,7 +2,16 @@
 // Typography
 //
 
-$body-font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+// @font-face {
+//   font-family: 'MICEGothic Bold';
+//   src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2206-01@1.0/MICEGothic Bold.woff2') format('woff2');
+//   font-weight: 700;
+//   font-style: normal;
+// }
+
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+
+$body-font-family: 'Pretendard', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
   Roboto, "Helvetica Neue", Arial, sans-serif !default;
 $mono-font-family: "SFMono-Regular", Menlo, Consolas, Monospace !default;
 $root-font-size: 16px !default; // Base font-size for rems
@@ -151,3 +160,29 @@ $media-queries: (
   lg: $content-width + $nav-width,
   xl: 1400px,
 ) !default;
+
+
+//
+//
+//
+
+$brown-000: #f6f6f6;
+$brown-100: #ad8f7a;
+$brown-200: #a17c62;
+$brown-300: #6b584a;
+$brown-400: #443a33;
+
+$jade-000: #e6f0ef;
+$jade-100: #dae9e7;
+$jade-200: #c5dcd5;
+$jade-300: #a9c5b9;
+$jade-400: #b6abab;
+$jade-500: #dbd2d1;
+
+$mint-000: #66ffde;
+$mint-100: #00ffc8;
+$mint-200: #00d7a8;
+$mint-300: #009272;
+
+$nav-child-link-color: $blue-200;
+$link-color: $blue-000;

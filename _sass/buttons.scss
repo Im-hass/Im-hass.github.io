@@ -116,3 +116,12 @@
 .btn-green {
   @include btn-color($white, $green-100);
 }
+
+
+//
+//
+//
+
+.btn-blue-reverse {
+  @include btn-color($blue-000, $white);
+}
