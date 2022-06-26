@@ -35,3 +35,19 @@
   color: $grey-dk-200;
   background-color: $yellow-200;
 }
+
+//
+// Customization
+//
+.label,
+.label-blue {
+  padding-top: 0.4em;
+  padding-right: 0.8em;
+  padding-bottom: 0.4em;
+  padding-left: 0.8em;
+  margin-right: $sp-1;
+  margin-left: $sp-1;
+  text-transform: none;
+  @include fs-2;
+  border-radius: 18px;
+}
