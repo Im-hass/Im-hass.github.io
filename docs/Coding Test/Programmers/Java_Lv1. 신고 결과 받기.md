@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Lv1. 신고 결과 받기
+title: Java | Lv1. 신고 결과 받기
 parent: Programmers
 grand_parent: Coding Test
-permalink: /docs/coding-test/programmers/Lv1_신고_결과_받기
+permalink: /docs/coding-test/programmers/Java_Lv1_신고_결과_받기
 nav_order: 1
 ---
 

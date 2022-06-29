@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Lv1. 로또의 최고 순위와 최저 순위
+title: Java | Lv1. 로또의 최고 순위와 최저_순위
 parent: Programmers
 grand_parent: Coding Test
-permalink: /docs/coding-test/programmers/Lv1_로또의_최고_순위와_최저 순위
+permalink: /docs/coding-test/programmers/Java_Lv1_로또의_최고_순위와_최저 순위
 nav_order: 2
 ---
 
