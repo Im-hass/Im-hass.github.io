@@ -7,7 +7,7 @@ permalink: /docs/coding-test/programmers/Javascript_Lv1_크레인_인형뽑기_�
 # nav_order: 4
 ---
 
-# Javascript | Lv1. 크레인 인형뽑기 게임
+# Lv1. 크레인 인형뽑기 게임
 
 [문제 링크](https://programmers.co.kr/learn/courses/30/lessons/64061)
 
